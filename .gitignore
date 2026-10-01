@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.playwright-cli/
+output/
+__pycache__/
+*.pyc
+.env
+.vercel/
+*.tsbuildinfo
+reposignal.db

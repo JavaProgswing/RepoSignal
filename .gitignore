@@ -6,5 +6,7 @@ __pycache__/
 *.pyc
 .env
 .vercel/
+.vercel_python_packages/
 *.tsbuildinfo
 reposignal.db
+.vercel

@@ -2,6 +2,8 @@
 
 RepoSignal turns a GitHub repository's open issues and pull requests into an evidence-backed maintainer attention queue. It ranks work, explains the signals behind each recommendation, spots related items, and builds a time-boxed action plan without posting or changing anything on GitHub.
 
+**Live demo:** [reposignal-pi.vercel.app](https://reposignal-pi.vercel.app)
+
 ## Features
 
 - Live issues, pull requests, checks, reactions, changed files, and repository policies
